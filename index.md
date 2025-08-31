@@ -6,3 +6,9 @@ Commit Message: Test for adding header in .md file.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Commit Message: Add an example image.
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+Commit Message: Add a code example.
