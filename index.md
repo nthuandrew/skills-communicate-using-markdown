@@ -12,3 +12,9 @@ var myVar = "Hello, world!";
 ```
 
 Commit Message: Add a code example.
+
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+
+Commit Message: Add an example of a task list.
